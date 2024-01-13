@@ -1,3 +1,4 @@
+![GIT](https://git-scm.com/images/logos/1color-darkbg@2x.png)
 ### Removing a Local Branch
 
 To remove a local branch, you can use the following command:
